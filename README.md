@@ -1,1 +1,1 @@
-# Teste_Perfomance_K6
+# Teste Perfomance utilizando K6
